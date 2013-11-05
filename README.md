@@ -20,7 +20,7 @@ Since every HTTP request adds latency (particularly when using a phone over cell
 </div>
 ```
 
-<style type="text/css" media="screen" src="style.css"></style>
+<style type="text/css" media="screen" src="https://raw.github.com/xinsight/AppStoreBadge/master/style.css"></style>
 
 <div class="appstorebadge">
 	<div class="text">
