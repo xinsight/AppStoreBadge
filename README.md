@@ -26,20 +26,8 @@ Since every HTTP request adds latency (particularly when using a phone over cell
 </div>
 ```
 
+<!-- aw shucks, github won't let me add my own css -->
 <style type="text/css" media="screen" href="https://raw.github.com/xinsight/AppStoreBadge/master/style.css"></style>
-
-<div class="appstorebadge">
-	<div class="text">
-    	<div class="line1">Available on the</div>
-    	<div class="line2">App Store</div>
-	</div>
-    <div class="iphone">
-	    <div class="earpiece"></div>
-	    <div class="screen"></div>
-	    <div class="button"></div>
-    </div>
-</div>
-
 
 To increase the size of the badge, use the `zoom` attribute.
 
