@@ -2,8 +2,10 @@
 
 Since every HTTP request adds latency (particularly when using a phone over cell networks), I wondered if it was possible to create a reasonable clone of official Apple App Store badge in pure CSS.
 
+[View the demo page](http://xinsight.github.io/AppStoreBadge/test.html)
+
 <p align="center">
-  ![alt tag](https://raw.github.com/xinsight/AppStoreBadge/master/example.png)
+  <img src="https://raw.github.com/xinsight/AppStoreBadge/master/example.png">
 </p>
 
 ## Usage
